@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  Overview
 This repository hosts a project that delves deep into the vibrant sector of online retail, focusing on a dataset from a UK-based retailer available at the UCI Machine Learning Repository. This dataset includes all transactions occurring between 2010 and 2011, providing a rich ground for developing powerful customer segmentation and recommendation systems to enhance marketing strategies and boost sales.
 
@@ -29,7 +29,4 @@ Country	The country of the customer.
 
 This project is adapted from the original work by Farzad Nekouei.
 Original project licensed under MIT License.
-=======
-# customer_segmentation_recommendation_system
-In this project, we aim to transform transactional data into a customer-centric dataset by creating new features that will facilitate the segmentation of customers into distinct groups using the K-means clustering algorithm. This segmentation will allow us to understand the unique profiles and preferences of various customer groups.
->>>>>>> 68e50d24c477d3054c3048dbb03745a4ffb37447
+
