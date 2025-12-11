@@ -1,0 +1,4 @@
+# enforce LF for text files across platforms
+*.py     text eol=lf
+*.ipynb  text eol=lf
+*.md     text eol=lf
